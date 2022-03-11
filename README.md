@@ -1,1 +1,3 @@
-"# Project for mobile development for Android OS by FIVE" 
+# Service and application development for Android OS
+
+Project for Android OS mobile development course by FIVE
